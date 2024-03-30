@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:Func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForEvalution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:FuncForEvalution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\alphabeta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:alphabeta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Minimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:Minimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForMinimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:FuncForMinimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\graficFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:graficFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0DD2EB6-AB26-4E40-95E0-587E554B8FEA}|\u0422\u041F_22_\u0418\u0421\u0422_1_\u041A\u0430\u043D\u0434\u0440\u0443\u0448\u0438\u043D_\u041C\u0430\u043A\u0441\u0438\u043C_\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0438\u0447_\u041A\u0420.vcxproj|solutionrelative:Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "alphabeta.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\alphabeta.h",
+              "RelativeDocumentMoniker": "alphabeta.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\alphabeta.h",
+              "RelativeToolTip": "alphabeta.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:28.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncForEvalution.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForEvalution.h",
+              "RelativeDocumentMoniker": "FuncForEvalution.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForEvalution.h",
+              "RelativeToolTip": "FuncForEvalution.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:28.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T18:04:26.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Func.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Func.h",
+              "RelativeDocumentMoniker": "Func.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Func.h",
+              "RelativeToolTip": "Func.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Minimax.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Minimax.h",
+              "RelativeDocumentMoniker": "Minimax.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Minimax.h",
+              "RelativeToolTip": "Minimax.h",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuncForMinimax.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForMinimax.h",
+              "RelativeDocumentMoniker": "FuncForMinimax.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\FuncForMinimax.h",
+              "RelativeToolTip": "FuncForMinimax.h",
+              "ViewState": "AQIAAAwCAAAAAAAAAAAmwBwCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "graficFunc.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\graficFunc.h",
+              "RelativeDocumentMoniker": "graficFunc.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\graficFunc.h",
+              "RelativeToolTip": "graficFunc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\header.h",
+              "RelativeDocumentMoniker": "header.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\header.h",
+              "RelativeToolTip": "header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAIcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T07:10:29.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Vector.h",
+              "RelativeDocumentMoniker": "Vector.h",
+              "ToolTip": "C:\\Heiby\\cods\\2 \u043A\u0443\u0440\u0441\\c\u002B\u002B\\\u0422P_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\\Vector.h",
+              "RelativeToolTip": "Vector.h",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T07:10:28.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

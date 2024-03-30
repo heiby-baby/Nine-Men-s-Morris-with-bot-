@@ -1,0 +1,91 @@
+﻿  main.cpp
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(39,55): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(39,55): warning C4309: аргумент: усечение константного значения
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,90): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(50,78): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,79): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(66,67): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,95): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(84,83): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,94): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         with
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:             T=int
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         and
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         [
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:             T=float
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\main.cpp(100,82): warning C4244:         ]
+C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\Vector.h(64,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\Vector.h(64,31):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\FuncForEvalution.h(61,22):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Vector<int>>"
+  	C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\Vector.h(63,5):
+  	во время компиляции функции-члена класс шаблон "Vector<Vector<int>>::Vector(std::initializer_list<_T>)"
+          with
+          [
+              _T=Vector<int>
+          ]
+  		C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\FuncForEvalution.h(61,38):
+  		см. первую ссылку на "Vector<Vector<int>>::Vector" в "countPotentialMills"
+  
+  ТП_22_ИСТ_1_Кандрушин_Максим_Алексеевич_КР.vcxproj -> C:\Heiby\cods\2 курс\c++\ТP_22_IST_1_Kandrushin_Maxim_Alekseevich_KW\x64\Debug\ТП_22_ИСТ_1_Кандрушин_Максим_Алексеевич_КР.exe
