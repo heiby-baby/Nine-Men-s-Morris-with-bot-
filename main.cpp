@@ -133,7 +133,7 @@ int main() {
 		}
 		//бот
 		else {
-			gamestats.depth = 3;
+			gamestats.depth = 5;
 			auto start = std::chrono::high_resolution_clock::now(); // Запуск таймера
 			//AiMove = minimax(TabelCircleShape, AIChekers, PlayerChekers, FreeFields, gamestats, gamestats.depth, false);
 			AiMove = alphabeta(TabelCircleShape, AIChekers, PlayerChekers, FreeFields, gamestats, gamestats.depth, INT16_MIN, INT16_MAX , false);

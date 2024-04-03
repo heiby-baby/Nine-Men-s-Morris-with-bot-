@@ -8,7 +8,9 @@ MoveBeforeMinimax alphabeta(Vector<sf::CircleShape>& TabelCircleShape, Vector<in
 	MoveBeforeMinimax evol;
 	if (depth == 0 || ((AIChekers.size() + gms.AIC) <= 2) || ((PlayerChekers.size() + gms.PC) <= 2)) {
 		// Вернуть оценку текущего состояния доски
-		evol.evaluation = Evalution(TabelCircleShape, AIChekers, PlayerChekers); // Замените это на вашу функцию оценки
+		if (((AIChekers.size() + gms.AIC) <= 2)) evol.evaluation = 100000; // Замените это на вашу функцию оценки
+		else if ((PlayerChekers.size() + gms.PC) <= 2) evol.evaluation = -100000;
+		evol.evaluation = Evalution(TabelCircleShape, AIChekers, PlayerChekers);
 		return evol;
 	}
 	//ранняя стадия игры
